@@ -1,4 +1,3 @@
-# Source Code Documentation
 
 ## Project: LocoFind: A GPS-Enabled Platform For Local Food, Culture, Safety, and Heritage Exploration
 ### Overview
